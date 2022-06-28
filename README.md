@@ -1,2 +1,2 @@
-# ImGui-Color-Converter
+# ImGuiColorConverter
 Converts RGBA to decimal and decimal to RGBA
